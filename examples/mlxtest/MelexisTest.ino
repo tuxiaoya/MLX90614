@@ -22,7 +22,7 @@
  *              WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
  *              PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details
  *              at http://www.gnu.org/copyleft/gpl.html
- *  \par
+ *  \par        迈来芯  红外线模块  1229
  *              You should have received a copy of the GNU Lesser General Public License along
  *              with this library; if not, write to the Free Software Foundation, Inc.,
  *              51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
